@@ -11,16 +11,18 @@ Atualmente desenvolvo projetos voltados para arquitetura de software, computaç�
 ## 🚀 Tech Stack
 
 ### 🎯 Foco Principal
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,aws&theme=dark" alt="Java, Spring Boot e AWS" />
+  </a>
+</div>
 
 ### 🛠️ Outras Tecnologias & Ferramentas
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,solidity,postgres,git&theme=dark" alt="Python, JavaScript, Solidity, PostgreSQL e Git" />
+  </a>
+</div>
 
 ---
 
@@ -51,8 +53,12 @@ Aplicação para simulação de operações bancárias utilizando conceitos de C
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub do Rodrigo Limeira" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <a href="https://github.com/RodrygoLimeira117">
+    <img src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub do Rodrigo Limeira" height="195" />
+  </a>
+  <a href="https://github.com/RodrygoLimeira117">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="195" />
+  </a>
 </div>
 
 ---
