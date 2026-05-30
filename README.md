@@ -1,45 +1,93 @@
-# ⚡ Rodrigo Limeira
-### Software Engineer | Backend & Cloud Architecture
+# 👨‍💻 Rodrigo Limeira
 
-Sou estudante de **Engenharia da Computação na UFRPE** (com 1.695 horas concluídas, englobando atividades obrigatórias, optativas e complementares) e desenvolvedor de software focado exclusivamente na construção de sistemas escaláveis e arquiteturas backend. 
+### Computer Engineering Student | Backend Developer | Cloud Enthusiast
 
-Minha especialidade é transformar requisitos complexos em código eficiente, seguro e preparado para a nuvem.
+Estudante de **Engenharia da Computação na UFRPE**, apaixonado por desenvolvimento backend, computação em nuvem e inteligência artificial.
 
----
-
-### 🚀 Engenharia e Desenvolvimento
-
-* 🛠️ **Arquitetura & Backend:** Liderando o desenvolvimento do **Project Zenith (Mental Mapper)**, projetando uma arquitetura baseada em microsserviços com **Java** e **Spring Boot**, integrada a pipelines de análise automatizada em **Python**.
-* ☁️ **Cloud & Infraestrutura:** Focado na consolidação de práticas de deploy, escalabilidade e segurança utilizando a infraestrutura da **AWS**.
-* ⚙️ **Fundamentos:** Aplicação rigorosa de conceitos teóricos de Engenharia de Computação, clean code e design patterns para a criação de software corporativo resiliente.
+Atualmente concentro meus estudos e projetos na construção de aplicações utilizando **Java**, **Spring Boot** e serviços da **AWS**, buscando desenvolver soluções escaláveis, seguras e alinhadas às boas práticas de engenharia de software.
 
 ---
 
-### 💻 Stack Tecnológico
+## 🚀 Sobre Mim
 
-**Core & Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Ferramentas e Tecnologias Auxiliares**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+* 🎓 Graduando em Engenharia da Computação pela UFRPE
+* ☕ Foco principal em desenvolvimento backend com Java
+* ☁️ Estudando Cloud Computing e arquitetura de aplicações na AWS
+* 🤖 Interesse em Inteligência Artificial, Visão Computacional e Engenharia de Dados
+* 📚 Aprendizado contínuo através de projetos práticos, cursos e desafios técnicos
 
 ---
 
-### 📊 Telemetria de Código
+## 🏗️ Projeto em Destaque
+
+### Project Zenith (Mental Mapper)
+
+Plataforma em desenvolvimento voltada para análise de padrões comportamentais, hábitos e produtividade.
+
+**Tecnologias utilizadas:**
+
+* Java
+* Spring Boot
+* Python
+* REST APIs
+* AWS
+* Banco de Dados Relacional
+
+**Objetivos do projeto:**
+
+* Monitoramento de hábitos e produtividade
+* Processamento automatizado de dados
+* Integração entre backend e módulos de IA
+* Arquitetura preparada para crescimento e escalabilidade
+
+---
+
+## 💻 Tech Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+
+### Linguagens e Ferramentas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+
+---
+
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true&bg_color=00000000" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-### 📫 Contato Profissional
+## 🎯 Atualmente Estudando
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Limeira-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-limeira-eng/)
-[![Email](https://img.shields.io/badge/Email-rodrigolimeira2002@outlook.com-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rodrigolimeira2002@outlook.com)
+* Java Avançado
+* Spring Security
+* Docker
+* AWS Cloud Practitioner
+* Arquitetura de Microsserviços
+* Banco de Dados e SQL
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Limeira-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rodrigo-limeira-eng/)
+
+[![Email](https://img.shields.io/badge/Email-rodrigolimeira2002@outlook.com-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:rodrigolimeira2002@outlook.com)
+
+---
+
+> "Transformando aprendizado contínuo em soluções reais através da tecnologia."
