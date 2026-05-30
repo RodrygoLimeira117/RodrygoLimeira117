@@ -1,44 +1,91 @@
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00C3FF&center=true&vCenter=true&width=1000&lines=Rodrigo+Limeira;Computer+Engineering+Student;Backend+Developer+%7C+Java+%7C+Spring+Boot+%7C+AWS" alt="Typing SVG" />
+
+<div align="center">
+
 # 👨‍💻 Rodrigo Limeira
 
-### Computer Engineering Student | Backend Developer | Cloud Enthusiast
+### Computer Engineering Student | Backend Developer | Cloud Computing
 
-Estudante de **Engenharia da Computação na UFRPE**, apaixonado por desenvolvimento backend, computação em nuvem e inteligência artificial.
+<p>
+Construindo aplicações escaláveis com Java, Spring Boot e AWS.
+</p>
 
-Atualmente concentro meus estudos e projetos na construção de aplicações utilizando **Java**, **Spring Boot** e serviços da **AWS**, buscando desenvolver soluções escaláveis, seguras e alinhadas às boas práticas de engenharia de software.
+</div>
 
 ---
 
 ## 🚀 Sobre Mim
 
-* 🎓 Graduando em Engenharia da Computação pela UFRPE
-* ☕ Foco principal em desenvolvimento backend com Java
-* ☁️ Estudando Cloud Computing e arquitetura de aplicações na AWS
-* 🤖 Interesse em Inteligência Artificial, Visão Computacional e Engenharia de Dados
-* 📚 Aprendizado contínuo através de projetos práticos, cursos e desafios técnicos
+🎓 Graduando em Engenharia da Computação na UFRPE
+
+☕ Desenvolvedor focado em Backend com Java
+
+☁️ Estudando Arquitetura de Software e Cloud Computing na AWS
+
+🤖 Interesse em Inteligência Artificial, Visão Computacional e Engenharia de Dados
+
+📚 Aprendizado contínuo através de projetos práticos, livros e desafios técnicos
 
 ---
 
-## 🏗️ Projeto em Destaque
+## 🏆 Certificações
 
-### Project Zenith (Mental Mapper)
+* Oracle Next Education (ONE) - Back-End
+* Decola Tech Avanade 2025
+* Inteligência Artificial Aplicada à Visão Computacional - FACTI (240h)
+* Fusion 360 - IFPE
+* Fomentando o Projeto Técnico Industrial do Agreste Pernambucano
 
-Plataforma em desenvolvimento voltada para análise de padrões comportamentais, hábitos e produtividade.
+---
 
-**Tecnologias utilizadas:**
+## 🔥 Projetos em Destaque
 
-* Java
-* Spring Boot
-* Python
-* REST APIs
-* AWS
-* Banco de Dados Relacional
+### 🧠 Project Zenith (Mental Mapper)
 
-**Objetivos do projeto:**
+Plataforma voltada para análise de hábitos, produtividade e comportamento utilizando backend em Java e módulos inteligentes em Python.
 
-* Monitoramento de hábitos e produtividade
-* Processamento automatizado de dados
-* Integração entre backend e módulos de IA
-* Arquitetura preparada para crescimento e escalabilidade
+**Tecnologias**
+
+`Java` `Spring Boot` `Python` `AWS` `REST API`
+
+🔗 Em desenvolvimento
+
+---
+
+### 🏦 Sistema Bancário na Nuvem
+
+Aplicação para gerenciamento de clientes e operações bancárias simuladas.
+
+**Funcionalidades**
+
+* Cadastro de clientes
+* Depósitos
+* Saques
+* Histórico de operações
+
+**Tecnologias**
+
+`Java` `POO` `AWS`
+
+🔗 Adicione aqui o link do repositório
+
+---
+
+### 🎓 Federados App
+
+Rede social acadêmica destinada a estudantes de universidades federais.
+
+**Tecnologias**
+
+`Java` `Spring Boot` `AWS` `REST API`
+
+**Objetivos**
+
+* Integração entre estudantes
+* Compartilhamento de oportunidades
+* Ambiente acadêmico colaborativo
+
+🔗 Adicione aqui o link do repositório
 
 ---
 
@@ -46,48 +93,98 @@ Plataforma em desenvolvimento voltada para análise de padrões comportamentais,
 
 ### Backend
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
 
-### Cloud & DevOps
+### Cloud
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=aws" />
+</p>
 
-### Linguagens e Ferramentas
+### Banco de Dados
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
----
+### Ferramentas
 
-## 📈 GitHub Analytics
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,idea,docker,vscode" />
+</p>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
+### Linguagens Auxiliares
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,javascript" />
 </p>
 
 ---
 
-## 🎯 Atualmente Estudando
+## 📊 Estatísticas GitHub
 
-* Java Avançado
-* Spring Security
-* Docker
-* AWS Cloud Practitioner
-* Arquitetura de Microsserviços
-* Banco de Dados e SQL
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏅 Conquistas GitHub
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+## 📈 Atividade
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎯 Roadmap Atual
+
+* [ ] AWS Cloud Practitioner
+* [ ] Docker
+* [ ] Spring Security
+* [ ] Microsserviços
+* [ ] Testes Automatizados
+* [ ] Kubernetes
+* [ ] Engenharia de Dados
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rodrigo_Limeira-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/rodrigo-limeira-eng/)
+<div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rodrigolimeira2002@outlook.com-0078D4?style=for-the-badge\&logo=microsoft-outlook\&logoColor=white)](mailto:rodrigolimeira2002@outlook.com)
+<a href="https://www.linkedin.com/in/rodrigo-limeira-eng/">
+<img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Limeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rodrigolimeira2002@outlook.com">
+<img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-> "Transformando aprendizado contínuo em soluções reais através da tecnologia."
+<div align="center">
+
+### 🚀 "Transformando conhecimento em soluções através da engenharia de software."
+
+</div>
