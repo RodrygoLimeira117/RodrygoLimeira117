@@ -1,77 +1,67 @@
-# 👨‍💻 Rodrigo Limeira
-### Computer Engineering Student | Backend Developer | Java • Spring Boot • AWS
+# Olá! Eu sou o Rodrigo Limeira 👋
 
-Estudante de **Engenharia da Computação na UFRPE** (com 1.695 horas concluídas), focado em desenvolvimento backend, arquitetura de software e computação em nuvem. 
-Atualmente desenvolvo aplicações utilizando Java, Spring Boot e AWS, com interesse em Inteligência Artificial, APIs REST e sistemas escaláveis.
+### 👨‍💻 Estudante de Engenharia da Computação | Desenvolvedor Backend | Java & AWS
 
----
+Estudante de Engenharia da Computação na **UFRPE**, com foco em desenvolvimento backend utilizando **Java, Spring Boot** e serviços da **AWS**. 
 
-### 🚀 Tech Stack
-
-**Core & Backend**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-
-**Ferramentas e Tecnologias Auxiliares**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+Atualmente desenvolvo projetos voltados para arquitetura de software, computação em nuvem e inteligência artificial, buscando criar aplicações escaláveis e alinhadas às boas práticas de engenharia.
 
 ---
 
-### 📌 Featured Projects
+## 🚀 Tech Stack
 
-* 🧠 **Project Zenith (Mental Mapper)**
-  Plataforma para análise de hábitos, produtividade e comportamento utilizando Java, Spring Boot e Python.
+### 🎯 Foco Principal
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-* 🎓 **Federados App**
-  Rede social voltada para estudantes de universidades federais.
-
-* 🏦 **Sistema Bancário na Nuvem**
-  Aplicação backend para gerenciamento de clientes e operações financeiras utilizando Java.
-
----
-
-### 🏆 Certifications
-
-* **Oracle Next Education (ONE)**
-* **Decola Tech Avanade 2025**
-* **Artificial Intelligence Applied to Computer Vision (FACTI)**
+### 🛠️ Outras Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 GitHub Analytics
+## 📌 Projetos em Destaque
+
+### 🧠 [Project Zenith (Mental Mapper)](https://github.com/xjvini/AppWeb-Zenith) 
+Plataforma para análise de hábitos, produtividade e comportamento.
+* **Tecnologias:** Java, Spring Boot, Python.
+
+### 🎓 [Federados App](https://github.com/RodrygoLimeira117/Federados-App)
+Rede social voltada para estudantes de universidades federais.
+* **Tecnologias:** Java, Spring Boot, Arquitetura de Microsserviços.
+
+### 🏦 [Sistema Bancário na Nuvem](https://github.com/RodrygoLimeira117/CadastroDeBanco)
+Aplicação para simulação de operações bancárias utilizando conceitos de Cloud Computing.
+* **Tecnologias:** Java, AWS.
+
+---
+
+## 🏆 Certificações
+
+* 🥇 **Oracle Next Education (ONE)**
+* 🥇 **Decola Tech Avanade 2025**
+* 🥇 **Inteligência Artificial Aplicada à Visão Computacional (FACTI)**
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=dracula&hide_border=true&rank_icon=github&bg_color=1c192c&title_color=f786ff&text_color=e0e0e0&icon_color=f158ff&border_radius=10" alt="Estatísticas do Rodrigo" />
-  
-  <br><br>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=dracula&hide_border=true&bg_color=1c192c&title_color=f786ff&text_color=e0e0e0&border_radius=10" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=tokyonight&hide_border=true" alt="Estatísticas do GitHub do Rodrigo Limeira" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
 </div>
+
+---
+
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-limeira-eng/)
+[![E-mail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigolimeira2002@outlook.com)
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrygoLimeira117&theme=dracula&hide_border=true&mode=daily&background=1c192c&ring=f158ff&fire=f158ff&currStreakNum=f786ff&currStreakLabel=e0e0e0&sideNums=f786ff&sideLabels=e0e0e0&dates=f158ff" alt="Sequência de Contribuições" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://contributions-matrix.vercel.app/api?username=RodrygoLimeira117&theme=ayu_mirage&hide_border=true&cell_color=9c40ff&text_color=e0e0e0" alt="Mapa de Contribuições" />
-</div>
-
----
-
-### 📫 Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-limeira-eng/)
-[![Email](https://img.shields.io/badge/Email-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:rodrigolimeira2002@outlook.com)
-
----
-<div align="center">
-  <i>💡 Building scalable backend solutions with Java, Cloud and AI.</i>
-</div>
+> 🚀 *Construindo soluções backend com Java, Cloud e Inteligência Artificial.*
