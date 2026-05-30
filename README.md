@@ -20,7 +20,7 @@ Atualmente desenvolvo projetos voltados para arquitetura de software, computaç�
 ### 🛠️ Outras Tecnologias & Ferramentas
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,solidity,postgres,git&theme=dark" alt="Python, JavaScript, Solidity, PostgreSQL e Git" />
+    <img src="https://skillicons.dev/icons?i=python,js,postgres,mysql,docker,git&theme=dark" alt="Python, JavaScript, PostgreSQL, MySQL, Docker e Git" />
   </a>
 </div>
 
@@ -50,24 +50,21 @@ Aplicação para simulação de operações bancárias utilizando conceitos de C
 
 ---
 
-## 📊 GitHub Stats
+## 📫 Contato
 
 <div align="center">
-  <a href="https://github.com/RodrygoLimeira117">
-    <img src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="Estatísticas do GitHub do Rodrigo Limeira" height="195" />
+  <a href="https://www.linkedin.com/in/rodrigo-limeira-eng/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn do Rodrigo Limeira" />
   </a>
-  <a href="https://github.com/RodrygoLimeira117">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" height="195" />
+  <a href="mailto:rodrigolimeira2002@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-%230078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="E-mail do Rodrigo Limeira" />
   </a>
 </div>
 
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-limeira-eng/)
-[![E-mail](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rodrigolimeira2002@outlook.com)
-
 <br>
 
-> 🚀 *Construindo soluções backend com Java, Cloud e Inteligência Artificial.*
+<div align="center">
+  <blockquote>
+    🚀 <em>Construindo soluções backend com Java, Cloud e Inteligência Artificial.</em>
+  </blockquote>
+</div>
