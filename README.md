@@ -1,22 +1,22 @@
 # 👨‍💻 Rodrigo Limeira
 
-### Computer Engineering Student | Backend Developer | Java & AWS
+### Computer Engineering Student | Backend Developer | Java • Spring Boot • AWS
 
-Estudante de Engenharia da Computação na UFRPE, com foco em desenvolvimento backend utilizando **Java**, **Spring Boot** e serviços da **AWS**.
+Estudante de Engenharia da Computação na UFRPE, focado em desenvolvimento backend, arquitetura de software e computação em nuvem.
 
-Atualmente desenvolvo projetos voltados para arquitetura de software, computação em nuvem e inteligência artificial, buscando criar aplicações escaláveis e alinhadas às boas práticas de engenharia.
+Atualmente desenvolvo aplicações utilizando **Java**, **Spring Boot** e **AWS**, com interesse em Inteligência Artificial, APIs REST e sistemas escaláveis.
 
 ---
 
 ## 🚀 Tech Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,spring,aws,python,mysql,git,github,docker" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,aws,python,mysql,docker,git,github" />
 </p>
 
 ---
 
-## 📌 Projetos em Destaque
+## 📌 Featured Projects
 
 ### 🧠 Project Zenith (Mental Mapper)
 
@@ -28,41 +28,54 @@ Rede social voltada para estudantes de universidades federais.
 
 ### 🏦 Sistema Bancário na Nuvem
 
-Aplicação para simulação de operações bancárias utilizando Java e conceitos de Cloud Computing.
+Aplicação backend para gerenciamento de clientes e operações financeiras utilizando Java.
 
 ---
 
-## 🏆 Certificações
+## 🏆 Certifications
 
 * Oracle Next Education (ONE)
 * Decola Tech Avanade 2025
-* Inteligência Artificial Aplicada à Visão Computacional (FACTI)
+* Artificial Intelligence Applied to Computer Vision (FACTI)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RodrygoLimeira117&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
+
+---
+
+## 📫 Contact
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=RodrygoLimeira117&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrygoLimeira117&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+  <a href="https://www.linkedin.com/in/rodrigo-limeira-eng/">
+    <img src="https://img.shields.io/badge/LinkedIn-Rodrigo%20Limeira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RodrygoLimeira117&theme=tokyonight&hide_border=true" />
+  <a href="mailto:rodrigolimeira2002@outlook.com">
+    <img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 📫 Contato
+<div align="center">
 
-<a href="https://www.linkedin.com/in/rodrigo-limeira-eng/">
-  <img src="https://img.shields.io/badge/LinkedIn-Rodrigo_Limeira-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+### 💡 Building scalable backend solutions with Java, Cloud and AI.
 
-<a href="mailto:rodrigolimeira2002@outlook.com">
-  <img src="https://img.shields.io/badge/Email-Contato-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
-
----
-
-> 🚀 Construindo soluções backend com Java, Cloud e Inteligência Artificial.
+</div>
